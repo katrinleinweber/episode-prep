@@ -158,6 +158,7 @@ Wrap Up
 * CRISPR could become a major force in ecology and conservation, 
 
 * Ethical issues?
+  - If current EU gene modification laws are interpreted as regulating the _process_, CRISPR is clearly included. Interpreting them as regularing the _outcome_, and CRISPR edits arguably leave no unnatural trace (or less than transgenes), it might arguably not necessarily be regulated: http://www.drze.de/im-blickpunkt/gmf/module/die-crispr-cas9-technik-und-gentechnische-veraenderungen
  
 * Do you know the fantastic music/video by A Capella Science on that topic? https://youtu.be/k99bMtg4zRk
 
